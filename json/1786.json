@@ -1,0 +1,27 @@
+{
+  "name": "Cute Nfts: Kawaii Vase #1786",
+  "description": "Adopt a cute collectible NFT from the kawaii universe in Smart Bitcoin Cash",
+  "image": "https://raw.githubusercontent.com/figurinhanft/CuteNfts/main/image/1786.png",
+  "dna": "f7cc68517d20ef8f4780f542571847cbd398073c",
+  "edition": 1786,
+  "date": 1648275029789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Clean_Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red_Balloon"
+    },
+    {
+      "trait_type": "Mr",
+      "value": "Wild_Violet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crybaby_Stew"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
